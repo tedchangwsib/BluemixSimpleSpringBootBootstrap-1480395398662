@@ -2,7 +2,7 @@
 
 Very simple spring boot application using Bootstrap UI with in memory database and RESTful interface.
 
-<a href="https://bluemix.net/deploy?repository=https://github.com/papicella/BluemixSimpleSpringBootBootstrap" 
+<a href="https://bluemix.net/deploy?repository=https://github.com/tedchangwsib/BluemixSimpleSpringBootBootstrap" 
 target="_blank"><img src="http://bluemix.net/deploy/button.png" alt="Bluemix button" /></a>
 
 This demo is using the IBM DevOps service linked to this GitHub repo so as changes are committed it
